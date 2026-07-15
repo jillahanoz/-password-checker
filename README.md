@@ -1,7 +1,7 @@
 # Password Strength Checker 🔐
 
 A Python-based web application that evaluates password strength in real-time and provides actionable feedback to help users create highly secure passwords.
-
+🔗 **[Click Here to Visit the Live Website!](https://password-checker-vd8y.onrender.com)**
 ## 🚀 Features
 
 * **Real-time Evaluation:** Checks password strength instantly as the user types.
